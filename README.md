@@ -1,5 +1,5 @@
 <h2> Hi, I'm Panky (Pankhudi Bhonsle) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="300"></br>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="175"></br>
 
 <span>
   <img src="https://komarev.com/ghpvc/?username=PankhudiB" alt="PankhudiB" height="22"/>
@@ -9,7 +9,6 @@
 
 <span>
   Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </span></br>
 
 <span>
@@ -21,14 +20,14 @@
 
 ```go
 panky := Pankhudi{
-	Pronouns:           []string{"she", "her"},
-	Code:               []string{"Golang", "Java", "Python"},
-	ContainerSolutions: []string{"Kubernetes", "Docker", "Helm", "Terraform", "Ansible", "PKS"},
-	DistributedSystems: []string{"Redis", "ElasticSearch", "Kafka", "AWS (novice)", "Websockets"},
-	Observability:      []string{"Jaeger", "Prometheus", "Grafana", "Kibana"},
-	Database:           []string{"Postgres", "Oracle"},
-	CICD:               []string{"GoCD", "Jenkins"},
-	DevPractices:       []string{"Clean code", "TDD", "Multilayered testing", "OOP", "Refactoring", "Pair Programming", "Pipeline as Code"},
+  Pronouns:           []string{"she", "her"},
+  Code:               []string{"Golang", "Java", "Python"},
+  ContainerSolutions: []string{"Kubernetes", "Docker", "Helm", "Terraform", "Ansible", "PKS"},
+  DistributedSystems: []string{"Redis", "ElasticSearch", "Kafka", "AWS (novice)", "Websockets"},
+  Observability:      []string{"Jaeger", "Prometheus", "Grafana", "Kibana"},
+  Database:           []string{"Postgres", "Oracle"},
+  CICD:               []string{"GoCD", "Jenkins"},
+  DevPractices:       []string{"Clean code", "TDD", "Multilayered testing", "OOP", "Refactoring", "Pair Programming", "Pipeline as Code"},
 }
 ```
 <span>
