@@ -1,5 +1,7 @@
-<h2> Hi, I'm Panky (Pankhudi Bhonsle) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="175"></br>
+<span>
+	<h2> Hi, I'm Pankhudi Bhonsle a.k.a "Panky" ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2>
+	<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="170"></br>
+</span>	
 
 <span>
   <img src="https://komarev.com/ghpvc/?username=PankhudiB" alt="PankhudiB" height="22"/>
@@ -13,7 +15,7 @@
 
 <span>
 	Currently blogging at <a href="https://dev.to/pankhudib">dev.to</a> <img src="https://img.shields.io/badge/-@pankhudib-grey?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/pankhudib"/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 		
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 		
 </span>
 </br></br>
 <span> A little more about me...  </span>
