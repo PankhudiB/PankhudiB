@@ -8,10 +8,12 @@
 </br></br>
 
 <span>
-  Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </span></br>
+
 <span>
-  Currently blogging at <img src="https://img.shields.io/badge/-@pankhudib-grey?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/pankhudib" height="20"/>
+	Currently blogging at <a href="https://dev.to/pankhudib">dev.to</a> <img src="https://img.shields.io/badge/-@pankhudib-grey?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/pankhudib"/>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 		
 </span>
 </br></br>
@@ -30,8 +32,7 @@ panky := Pankhudi{
 }
 ```
 <span>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  <em><b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 
+  <em><b>I love connecting with different people</b> so come say hi ! :)</em>
   </br>
 </span>  
-Reach out to me at : <a href="">psbhonsle08@gmail.com</a>
