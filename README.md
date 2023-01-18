@@ -3,12 +3,16 @@
 
 <span>
   <img src="https://komarev.com/ghpvc/?username=PankhudiB" alt="PankhudiB" height="22"/>
-  <img src="https://img.shields.io/badge/-pankhudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankhudi-bhonsle" alt="PankhudiB" height="22"/>
-  <img src="https://img.shields.io/badge/-@pankhudib-grey?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/pankhudib" height="22"/>
+  <img src="https://img.shields.io/badge/-pankhudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankhudi-bhonsle" alt="PankhudiB" height="22"/>  	
 </span>
-</br>
+</br></br>
+
 <span>
-  Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
+  Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</span></br>
+<span>
+  Currently blogging at <img src="https://img.shields.io/badge/-@pankhudib-grey?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/pankhudib" height="20"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 		
 </span>
 </br></br>
 <span> A little more about me...  </span>
