@@ -1,5 +1,5 @@
 <h2> Hi, I'm Panky (Pankhudi Bhonsle) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="150"></br>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="300"></br>
 
 <span>
   <img src="https://komarev.com/ghpvc/?username=PankhudiB" alt="PankhudiB" height="22"/>
