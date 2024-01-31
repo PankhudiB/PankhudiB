@@ -26,7 +26,7 @@
 ```go
 panky := Pankhudi{
   Pronouns:           []string{"she", "her"},
-  Code:               []string{"Golang", "Java", "Python"},
+  Code:               []string{"Golang", "C#", "Java", "Python"},
   ContainerSolutions: []string{"Kubernetes", "Docker", "Helm", "Terraform", "Ansible", "PKS"},
   DistributedSystems: []string{"Redis", "ElasticSearch", "Kafka", "AWS (novice)", "Websockets"},
   Observability:      []string{"Jaeger", "Prometheus", "Grafana", "Kibana"},
