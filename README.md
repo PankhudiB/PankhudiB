@@ -10,7 +10,10 @@
 </br></br>
 
 <span>
-  Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
+  Software Engineer 2 at <a href="https://www.microsoft.com/en-in/about/">Microsoft</a>
+</span></br>
+<span>
+  Prior to Microsoft => Senior Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
 </span></br>
 
 <span>
